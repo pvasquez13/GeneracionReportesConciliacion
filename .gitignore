@@ -1,0 +1,8 @@
+# Compiled source #
+*.class
+*.jar
+
+# Logs, databases and properties#
+*.properties
+
+ target/*
